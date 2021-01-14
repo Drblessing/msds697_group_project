@@ -1,4 +1,4 @@
-# msds697_group_project
+# Distributed Data Sytems Group Project
 Group Project for USFCA msds697 - Distributed Data Systems
 Focus on finding a correlation between twitter sentiment and cryptocurrency markets
 
