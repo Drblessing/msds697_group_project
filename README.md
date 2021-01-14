@@ -10,14 +10,14 @@ Masters project focus on finding a correlation between twitter sentiment and cry
 - Mauro Napoli
 - Ricky Zhang
 
-###Project Goals
+### Project Goals
 
 - Identify correlation between twitter sentiment through general hastags or large influencer accounts and price action for relevant coins
 - Identify correlation between new coin listing annoucements on exchanges twitter aand price action for relevant coins
 - Identify correlation between whale_alerts tweets about large cryptocurrency movements and price action for relevant coins
 - Look for further correlations in financial markets
 
-###Datasets 
+### Datasets 
 
 Twitter sentiment using Developer API:
 - **Historical Data**: Up to 10 days ago can query tweets using certain hashtags 
@@ -27,7 +27,7 @@ Market Data:
 - **Cryptocurrency trading pairs**: Historical trading data for 400+ coins minute candles
 - **Coingecko API**: Historical data for every coin 
 
-###Roadmap
+### Roadmap
 
 #### Vader Sentiment
 Create method for analyzing input of tweets and outputting composite score.
