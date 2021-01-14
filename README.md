@@ -43,3 +43,11 @@ For a given day be able to identify the hourly coin price over the last 24 hrs.
 Also for the data of the last 10 days
 
   
+#### Querying twitter and grabbing historical tweets
+
+
+#### Data wrangling twitter sentiment adn crypto pumps
+
+#### Analyzing the twitter sentiment and crypto pumps together for trends 
+
+#### Visualizing data and final report
