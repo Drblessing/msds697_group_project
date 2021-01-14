@@ -40,4 +40,6 @@ as well as create methods for pulling price data of coins not in original datase
 #### Identifying crypto pumps
 Monitoring coingecko and creating and managing list of different crypto pump and dumps. 
 For a given day be able to identify the hourly coin price over the last 24 hrs. 
-Also for the data of the last 10 days 
+Also for the data of the last 10 days
+
+  
