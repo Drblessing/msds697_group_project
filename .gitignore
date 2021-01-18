@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 keys.txt
 .Python
+.idea/
 build/
 develop-eggs/
 dist/
