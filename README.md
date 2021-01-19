@@ -2,9 +2,9 @@
 
 Masters project focus on finding a correlation between twitter sentiment and cryptocurrency markets
 
-(Updated Minute Resultion Crypto Data)[https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution]
+[Updated Minute Resultion Crypto Data](https://www.kaggle.com/tencars/392-crypto-currency-pairs-at-minute-resolution)
 
-### Team Members
+## Team Members
 - Berkay Canogullari
 - Daniel Blessing
 - Emre Okcular
