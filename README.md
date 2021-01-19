@@ -22,12 +22,12 @@ Masters project focus on finding a correlation between twitter sentiment and cry
 ### Datasets 
 
 Twitter sentiment using Developer API:
-- **Historical Data**: Up to 10 days ago can query tweets using certain hashtags 
+- **Historical Data**: Up to 10 days ago can query tweets using certain hashtags
 - **Account Tweets**: Up to 1000 tweets from an account
 
 Market Data:
 - **Cryptocurrency trading pairs**: Historical trading data for 400+ coins minute candles
-- **Coingecko API**: Historical data for every coin 
+- **Coingecko API**: Historical data for every coin
 
 ### Roadmap
 
@@ -37,11 +37,11 @@ Includes: data cleaning for tweets, averaging composite scores
 
 #### Historical Price Data
 Clean historical price coin data,
-as well as create methods for pulling price data of coins not in original dataset 
+as well as create methods for pulling price data of coins not in original dataset
 
 #### Identifying crypto pumps
-Monitoring coingecko and creating and managing list of different crypto pump and dumps. 
-For a given day be able to identify the hourly coin price over the last 24 hrs. 
+Monitoring coingecko and creating and managing list of different crypto pump and dumps.
+For a given day be able to identify the hourly coin price over the last 24 hrs.
 Also for the data of the last 10 days
 
   
@@ -50,6 +50,6 @@ Also for the data of the last 10 days
 
 #### Data wrangling twitter sentiment adn crypto pumps
 
-#### Analyzing the twitter sentiment and crypto pumps together for trends 
+#### Analyzing the twitter sentiment and crypto pumps together for trends
 
 #### Visualizing data and final report
