@@ -1,10 +1,8 @@
-import time
-
 print("test")
 
 
-def BAD_NAME():
+def good_name():
     print("will this work?")
 
 
-BAD_NAME()
+good_name()
