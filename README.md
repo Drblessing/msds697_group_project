@@ -19,7 +19,7 @@ Masters project focus on finding a correlation between twitter sentiment and cry
 - Identify correlation between whale_alerts tweets about large cryptocurrency movements and price action for relevant coins
 - Look for further correlations in financial markets
 
-### Datasets 
+### Datasets
 
 Twitter sentiment using Developer API:
 - **Historical Data**: Up to 10 days ago can query tweets using certain hashtags
